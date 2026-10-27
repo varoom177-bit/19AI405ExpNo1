@@ -1,7 +1,7 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
 <h3>Name: Varoodhini M
 <h3>Register Number: 212225220118
-# date:15.10.2026
+# Date : 15.10.2026
 
 
 <h3>AIM:</h3>
